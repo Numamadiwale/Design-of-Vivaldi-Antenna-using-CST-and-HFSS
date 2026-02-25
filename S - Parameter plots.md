@@ -5,7 +5,7 @@
 
 * The return loss acquired for FR4 :
 
-![S plot for FR4 , A practical condition](HFSSsp-2.png)
+![S plot for FR4 , A practical condition](Hfsssp-2.png)
 
 
 * The return loss acquired for FR4 :
